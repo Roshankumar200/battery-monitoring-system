@@ -106,7 +106,7 @@ Battery Hardware → MQTT Broker → Django Consumer → SQLite → REST API →
 
 ```bash
 # Clone repository
-git clone https://github.com/vindicta07/bms.git
+git clone https://github.com/Roshankumar200/battery-monitoring-system.git
 cd bms
 
 # Install frontend dependencies
@@ -635,6 +635,25 @@ Contact repository owner for contribution guidelines.
 For issues or questions:
 - Open an issue on GitHub
 - Contact: [Repository Owner]
+
+
+## 👥 Contributors
+
+This project was developed as a collaborative effort by a two-member team.
+
+### 🔹 Roshan Kumar Sahu
+- Led backend development using Django REST Framework  
+- Implemented MQTT-based real-time data ingestion  
+- Designed alert processing logic and system integration  
+
+### 🔹 Yash Pathak
+- Led frontend development using Next.js  
+- Built dashboard UI components and data visualizations  
+- Contributed to backend integration  
+
+### 🤝 Collaboration
+Both contributors collaborated on system architecture, feature design, and end-to-end integration of the Battery Monitoring System (BMS).
+
 
 ---
 
