@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/bms",
+  basePath: "/battery-monitoring-system",
   typescript: {
     ignoreBuildErrors: true,
   },
