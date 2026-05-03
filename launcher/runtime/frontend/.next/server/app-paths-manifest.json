@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/activity/page": "app/activity/page.js",
+  "/intelligence/page": "app/intelligence/page.js",
+  "/agent-network/page": "app/agent-network/page.js",
+  "/page": "app/page.js",
+  "/command-center/page": "app/command-center/page.js",
+  "/operations/page": "app/operations/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/systems/page": "app/systems/page.js",
+  "/battery-stations/[stationId]/page": "app/battery-stations/[stationId]/page.js"
+}

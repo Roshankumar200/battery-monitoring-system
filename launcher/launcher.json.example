@@ -1,0 +1,9 @@
+{
+  "backend_executable": "runtime/backend.exe",
+  "frontend_executable": "runtime/frontend.exe",
+  "backend_address": "127.0.0.1:8000",
+  "frontend_address": "127.0.0.1:3000",
+  "open_browser": true,
+  "startup_timeout_seconds": 180,
+  "data_dir": ""
+}
